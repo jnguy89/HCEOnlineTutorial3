@@ -1,6 +1,4 @@
-/Intermediate/
-/DerivedDataCache/
-/Saved/
-/.vs/
-*.log
-*.tmp
+Binaries/ 
+Intermediate/ 
+Saved/ 
+DerivedDataCache/ 
